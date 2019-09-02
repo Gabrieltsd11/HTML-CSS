@@ -4,9 +4,11 @@
         
         h4 {
             color: #bbc2ba;
+            font-family: "Aileron Heavy", Aileron;
         }
         
         p,
         ul {
             color: #bbc2ba;
+            text-align: center, font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
         }
